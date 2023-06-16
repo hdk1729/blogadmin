@@ -1,0 +1,1 @@
+ it ia admin app for the blog app 
